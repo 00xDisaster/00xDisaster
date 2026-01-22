@@ -19,9 +19,6 @@
   <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
   </a>
-  <a href="https://ctftime.org/user/YOUR_CTFTIME_ID">
-    <img src="https://img.shields.io/badge/CTFtime-Profile-2a2a72?style=for-the-badge&logoColor=white" alt="CTFtime"/>
-  </a>
 </p>
 
 ---
