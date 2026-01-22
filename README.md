@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/bMSk1Mgr" width="460" alt="cyber aesthetic"/>
+  <img src="me.jpg" width="460" alt="cyber aesthetic"/>
   <br><br>
 </p>
 
