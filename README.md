@@ -76,11 +76,3 @@ Feel free to open an **Issue** if you'd like me to cover a specific challenge/ro
 
 <p align="center">
   <i>"The best way to predict the future is to create it... or break someone else's."</i><br>
-  — slightly modified version for red teamers 😈
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=1000" width="620" alt="terminal cyberpunk"/>
-</p>
-
-#cybersecurity #redteam #ctf #offsec #pentesting
