@@ -51,10 +51,10 @@ I'm **disaster** — someone who enjoys breaking systems to truly understand the
 
 | Category               | Description                                      | Location                          |
 |------------------------|--------------------------------------------------|-----------------------------------|
-| TryHackMe              | Room solutions & learning notes                  | [`/tryhackme`](/tryhackme)        |
-| HackTheBox             | Retired & active machine write-ups               | [`/hackthebox`](/hackthebox)      |
-| OverTheWire / Bandit   | Fundamental Linux & basic exploitation           | [`/overthewire`](/overthewire)    |
-| Tools & Scripts        | Small utilities & exploits I create while learning| [`/tools`](/tools)                |
+| TryHackMe              | Room solutions & learning notes                  | [`https://github.com/00xDisaster/tryhackme`](/tryhackme)        |
+| HackTheBox             | Retired & active machine write-ups               | [`https://github.com/00xDisaster/hackthebox`](/hackthebox)      |
+| OverTheWire / Bandit   | Fundamental Linux & basic exploitation           | [`https://github.com/00xDisaster/OverTheWire`](/overthewire)    |
+| Tools & Scripts        | Small utilities & exploits I create while learning| [`https://github.com/00xDisaster/Tools`](/tools)                |
 
 Feel free to open an **Issue** if you'd like me to cover a specific challenge/room/machine.
 
