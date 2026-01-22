@@ -3,20 +3,20 @@
   <br><br>
 </p>
 
-<h1 align="center">disaster</h1>
+<h1 align="center">Disaster</h1>
 <h3 align="center">Break things to understand how they work.</h3>
 
 <p align="center">
   <strong>CTF Player</strong> • 
-  <strong>Red Teaming Enthusiast</strong> • 
+  <strong>Red Teaming</strong> • 
   <strong>Offensive Security Learner</strong>
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/YOUR_USERNAME">
+  <a href="https://tryhackme.com/p/Disvster">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-00ff9d?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+  <a href="https://app.hackthebox.com/profile/3078244">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
   </a>
 </p>
@@ -63,9 +63,9 @@ Feel free to open an **Issue** if you'd like me to cover a specific challenge/ro
 
 ### 🧩 Where to find me
 
-- **CTFtime**    → [@disaster](https://ctftime.org/user/...)
-- **TryHackMe**  → [disaster](https://tryhackme.com/p/...)
-- **HackTheBox** → [disaster](https://app.hackthebox.com/profile/...)
+- **CTFtime**    → [not now]()
+- **TryHackMe**  → [Disvster](https://tryhackme.com/p/Disvster)
+- **HackTheBox** → [00xBadVillain](https://app.hackthebox.com/profile/3078244)
 - **Discord**    → (add if you want)
 - **Twitter/X**  → (add if you want)
 
