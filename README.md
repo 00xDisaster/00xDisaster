@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1o27dNhLUe7zrdeBNUQ2UyPyaWFhkGMJ1/view" width="460" alt="cyber aesthetic"/>
+  <img src="https://ibb.co/bMSk1Mgr" width="460" alt="cyber aesthetic"/>
   <br><br>
 </p>
 
