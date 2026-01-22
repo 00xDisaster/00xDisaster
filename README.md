@@ -51,7 +51,6 @@ I'm **disaster** — someone who enjoys breaking systems to truly understand the
 
 | Category               | Description                                      | Location                          |
 |------------------------|--------------------------------------------------|-----------------------------------|
-| CTF Write-ups          | Detailed walkthroughs + mindset & key learnings  | [`/writeups`](/writeups)          |
 | TryHackMe              | Room solutions & learning notes                  | [`/tryhackme`](/tryhackme)        |
 | HackTheBox             | Retired & active machine write-ups               | [`/hackthebox`](/hackthebox)      |
 | OverTheWire / Bandit   | Fundamental Linux & basic exploitation           | [`/overthewire`](/overthewire)    |
