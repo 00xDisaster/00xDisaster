@@ -54,6 +54,7 @@ I'm **disaster** — someone who enjoys breaking systems to truly understand the
 | TryHackMe              | Room solutions & learning notes                  | [`/tryhackme`](https://github.com/00xDisaster/tryhackme)        |
 | HackTheBox             | Retired & active machine write-ups               | [`/hackthebox`](https://github.com/00xDisaster/hackthebox)      |
 | OverTheWire / Bandit   | Fundamental Linux & basic exploitation           | [`/overthewire`](https://github.com/00xDisaster/OverTheWire)    |
+| MCSA / Windows Server  | Complete Windows Server & Active Directory hands-on labs   | [`/Mcsa`](https://github.com/00xDisaster/Zero-to-Windows-Server-Hero-My-Complete-MCSA-Journey-Hands-On-Labs-Included-)                           |
 | Tools & Scripts        | Small utilities & exploits I create while learning| [`/tools`](https://github.com/00xDisaster/Tools)                |
 
 Feel free to open an **Issue** if you'd like me to cover a specific challenge/room/machine.
